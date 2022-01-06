@@ -28,6 +28,14 @@
   color: #61dafb;
 }
 
+.navbar{
+  background-image: linear-gradient(to right, rgba(162, 224, 178, 0.5), white);
+  font-size: 55px;
+  margin-bottom: 15px;
+}
+
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

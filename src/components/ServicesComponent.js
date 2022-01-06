@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import '../App.css';
 
 class Services extends Component {
     constructor(props) {
@@ -14,7 +15,7 @@ class Services extends Component {
                 {
                     id: 1,
                     name: 'Baths',
-                    image: 'assets/images/manintub.jfif',
+                    image: 'assets/images/tub.jpg',
                     description: "Enjoy a nice long soak in a bathtub that is far too large for one person and too small for ten."
                 },
                 {
