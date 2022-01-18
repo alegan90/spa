@@ -16,13 +16,13 @@ class Services extends Component {
                     id: 1,
                     name: 'Baths',
                     image: 'assets/images/tub.jpg',
-                    description: "Enjoy a nice long soak in a bathtub that is far too large for one person and too small for ten."
+                    description: "Have a nice long soak in a bathtub that is far too large for one person and too small for ten."
                 },
                 {
                     id: 2,
                     name: 'Tea',
                     image: 'assets/images/tea.jfif',
-                    description: "Enjoy a mug, or several, of our homegrown, handpicked tea."
+                    description: "Enjoy a mug (or several) of our homegrown and handpicked tea."
                 }
             ],
         };
